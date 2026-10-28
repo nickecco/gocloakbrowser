@@ -1,0 +1,33 @@
+# Reference CloakBrowser repository
+CloakBrowser/
+
+# Comparison Node script
+comparison_node/
+
+# Workspace skills
+skills/
+
+# Binaries & build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+/bin/
+/dist/
+/simple
+/testrun
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test coverage & profiling
+*.out
+*.test
+*.prof
+
+# CloakBrowser cache & data
+.cloakbrowser/
+.cloakbrowser-seed
+*.mmdb
